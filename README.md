@@ -15,7 +15,7 @@ sudo apt-get install gstreamer-1.0*
 Download this project to your machine.
 Move to the folder using
 ```
-cd EmbeddedNotifier
+cd Gstreamer-Streaming
 ```
 And compile using
 ```
