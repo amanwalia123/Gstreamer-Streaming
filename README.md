@@ -1,5 +1,5 @@
 # Gstreamer Streaming
-This project can be used wrapper code for streaming of camera frames with very low latency.It can also be used to add multiple sinks.
+This repository contain code to stream video from camera to other machine on local network using Gstreamer.This code provide a convenient wrapper API in C++ to stream to multiple clients.This project can be used wrapper code for streaming of camera frames with very low latency.It can also be used to add multiple sinks.
 
 ## Getting Started
 Download or clone this repository to your local Raspberry File System.
